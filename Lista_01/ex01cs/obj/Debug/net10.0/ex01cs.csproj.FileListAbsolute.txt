@@ -1,0 +1,5 @@
+/workspaces/2026_2_POO/Lista_01/ex01cs/obj/Debug/net10.0/ex01cs.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/2026_2_POO/Lista_01/ex01cs/obj/Debug/net10.0/ex01cs.AssemblyInfoInputs.cache
+/workspaces/2026_2_POO/Lista_01/ex01cs/obj/Debug/net10.0/ex01cs.AssemblyInfo.cs
+/workspaces/2026_2_POO/Lista_01/ex01cs/obj/Debug/net10.0/ex01cs.csproj.CoreCompileInputs.cache
+/workspaces/2026_2_POO/Lista_01/ex01cs/obj/Debug/net10.0/ex01cs.sourcelink.json

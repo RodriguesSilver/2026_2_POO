@@ -13,3 +13,5 @@ int main() {
 
     return 0;
 }
+// para compilar: g++ ex01.cpp -o ex01
+// para executar: ./ex01
