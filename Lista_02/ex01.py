@@ -27,4 +27,3 @@ if n3 % 2 != 0:
 else:
     par += n3
 print(impar, par)
-
